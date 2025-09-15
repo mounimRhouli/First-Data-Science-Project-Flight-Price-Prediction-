@@ -1,6 +1,6 @@
 # First Data Science Project: Flight Price Prediction ✈️
 
-![Flight Price Prediction Banner]([https://via.placeholder.com/1200x300?text=Flight+Price+Prediction](https://www.google.com/imgres?q=Flight%20Price%20Prediction%20image&imgurl=https%3A%2F%2Fwww.datascienceportfol.io%2Fstatic%2Fprofile_pics%2Fpr5_E9FC1E287B3376C45EB9.jpg&imgrefurl=https%3A%2F%2Fwww.datascienceportfol.io%2FSavitar%2Fprojects%2F5&docid=c-YFkjTfej45lM&tbnid=9FDif6FiiZM_3M&vet=12ahUKEwj567KV-9uPAxVOVqQEHRo8FAk4ChAzegQIJxAA..i&w=697&h=208&hcb=2&itg=1&ved=2ahUKEwj567KV-9uPAxVOVqQEHRo8FAk4ChAzegQIJxAA))
+![Flight Price Prediction Banner](https://www.datascienceportfol.io/static/profile_pics/pr5_E9FC1E287B3376C45EB9.jpg)
 
 ## Overview
 
